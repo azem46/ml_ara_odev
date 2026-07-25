@@ -31,7 +31,7 @@ depresyon_seviyesi
 3-51
 4-12
 
-0 kategoride 16766 değer varken 4 kategorisinde 12 değer bulunuyordu. bu daha modellerimin performansını genel olarak olumsuz etkiledi.
+0 kategoride 16766 değer varken 4 kategorisinde 12 değer bulunuyordu. Buda  modellerimin performansını genel olarak olumsuz etkiledi.
 
 Eğer buraya kadar geldiniz bana eşlik ettiyseniz teşekkür ederim. 
 
