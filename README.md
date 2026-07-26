@@ -1,5 +1,13 @@
-"""
+
 Merhabalar;
+
+Projemin amacı : "Demografik Özellikler ile  Anksiyete, Algılanan Stres ve Uykusuzluk Düzeyi Ölçeklerinin Toplam
+Puanları Kullanılarak Depresyon Şiddetinin Makine Öğrenmesi Algoritmaları ile Tahmin Edilmesi"dir.
+
+Projemde kullandığım veri setini https://zenodo.org/records/10423537 adlı siteden temin ettim.
+Veri setimden bahsedecek olursam bu veri seti, 27 Şubat - 17 Mart 2021 tarihleri ​​arasında 
+toplanmış olup,demografik bilgileri, PHQ-9(Depresyon), GAD-7(Anksiyete), ISI(Uykusuzluk) ve PSS(Algılanan Stres) olmak üzere dört tanınmış psikolojik ölçeğe 
+24.292 öğrencinin verdiği yanıtları içermektedir.
 
 Bu proje makine öğrenmesi ara ödev kapsamında hazırlanmıştır. İlk uygulama ödevim.Bu nedenle eksik veya hatalı yanları olmasını gayet doğal karşılayacağınızı düşünüyorum. İlk amacım öğrenmek daha sonra da öğrendiklerimi göstermek. 
 
@@ -35,4 +43,3 @@ depresyon_seviyesi
 
 Eğer buraya kadar geldiniz bana eşlik ettiyseniz teşekkür ederim. 
 
-"""
