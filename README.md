@@ -33,10 +33,15 @@ Doğruluk Skoru: 0.6911643270024773
 Modellerimin başarılarını etkileyen en önemli faktör tahmin yani target değişkenimin (depresyon_seviyesi)dengesiz bir dağılım göstermesiydi. 
 
 depresyon_seviyesi	
+
 0-16766
+
 1-5428
+
 2-450
+
 3-51
+
 4-12
 
 0 kategoride 16766 değer varken 4 kategorisinde 12 değer bulunuyordu. Buda  modellerimin performansını genel olarak olumsuz etkiledi.
